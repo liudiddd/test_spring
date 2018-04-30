@@ -1,8 +1,5 @@
 package com.adee.test;
 
-public class Test {
+public class Spring {
 
-	
-	
-	
 }
