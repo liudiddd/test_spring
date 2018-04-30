@@ -1,4 +1,4 @@
-package test_spring;
+package com.adee.test;
 
 public class Test {
 
