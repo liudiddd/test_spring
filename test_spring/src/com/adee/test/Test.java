@@ -8,6 +8,6 @@ public class Test {
 	//world
 	//modified in master
 	//modified in branch1
-	
 	//modefied in master 2
+	//modified in branch1 2
 }
